@@ -37,7 +37,7 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/SoulCodiangYanhun"><img src="https://img.shields.io/badge/GitHub-SoulCodingYanhun-black?style=flat-square&logo=github" /></a>
+<a href="https://github.com/SoulCodingYanhun"><img src="https://img.shields.io/badge/GitHub-SoulCodingYanhun-black?style=flat-square&logo=github" /></a>
 <a href="https://space.bilibili.com/1875279049"><img src="https://img.shields.io/badge/哔哩哔哩-我就是soulcoding-00A1D6?style=flat-square&logo=bilibili" /></a>
 <img src="https://komarev.com/ghpvc/?username=SoulCodingYanhun&color=lightgrey&style=flat-square" />
 </p>
